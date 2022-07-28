@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ghos5y
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and will learn Unity later on
 - 📫 How to reach me: dvdstjnvsk@gmail.com
 
 <!---
