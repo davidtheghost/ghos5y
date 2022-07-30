@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidtheghost
+- 👋 Hi, I’m @itheghost
 - 📫 How to reach me: dvdstjnvsk@gmail.com
 
 <!---
